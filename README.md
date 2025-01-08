@@ -281,6 +281,7 @@ showCupertinoModalPopup(
 ```
 
 #### Customization Note
+
 All customization options for the `PersianDateTimePicker` and `PersianCupertinoDatePicker` are similar to those of the native Flutter date pickers. You can easily apply styles using `ThemeData`, `DatePickerTheme`, or by wrapping the pickers with `Theme` in the builder, just like you would with native Flutter widgets.
 
 ### 6. Using Material 2 Instead of Material 3
@@ -319,6 +320,6 @@ Feel free to reach out at [mem.amir.m@gmail.com](mailto:mem.amir.m@gmail.com) or
 
 _Banner designed by [Nader Mozaffari](https://www.linkedin.com/in/nadermozaffari)_
 
-### <img src="https://github.com/M-amir-M/persian-datetime-picker/raw/master/assets/Eyes.png" width="36px">️ Project License:
+### <img src="https://github.com/M-amir-M/persian-datetime-picker/raw/master/assets/Eyes.png" width="36px">️ Project License
 
 This project is licensed under the [MIT License](LICENSE).
