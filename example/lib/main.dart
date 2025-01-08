@@ -387,9 +387,10 @@ class _HomePageState extends State<HomePage> {
         child: Center(
           child: Text(
             label,
-            style: Theme.of(context).textTheme.headlineSmall!.copyWith(
-                  color: Colors.black,
-                ),
+            style: Theme.of(context)
+                .textTheme
+                .headlineSmall!
+                .copyWith(color: Colors.black),
             textAlign: TextAlign.center,
           ),
         ),
